@@ -1,5 +1,5 @@
 #include "monty.h"
-#include "lists.h"
+#include "main.h"
 
 /**
  * rotl_handler - handles the rotl instruction

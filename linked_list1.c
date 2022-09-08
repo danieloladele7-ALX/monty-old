@@ -1,5 +1,5 @@
 #include "monty.h"
-#include "lists.h"
+#include "main.h"
 
 /**
  * insert_dnodeint_at_index - inserts a node at a given index

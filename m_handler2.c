@@ -1,5 +1,5 @@
 #include "monty.h"
-#include "lists.h"
+#include "main.h"
 
 /**
  * sub_handler - handles the sub instruction

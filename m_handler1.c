@@ -1,5 +1,5 @@
 #include "monty.h"
-#include "lists.h"
+#include "main.h"
 
 /**
  * pint_handler - handles the pint instruction
